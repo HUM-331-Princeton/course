@@ -3,7 +3,23 @@ layout: default
 ---
 
 <article class="post">
-  <h1>{{ page.title }}</h1>
+
+  <header class="post-header">
+    <h2 class="post-title" itemprop="name headline">{{ page.title | escape }}</h2>
+      <div class="post-meta">
+        {% if page.author %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span itemprop="name">
+              {% for person in site.people %}
+              {% if person.name == page.author %}
+              <a href="{{ site.baseurl }}{{ person.url }}">{{ page.author }}</a>
+              {% endif %}
+              {% endfor %}
+            </span>
+          </span>
+          {% endif %}
+      </div>
+  </header>
 
   <div class="entry">
     {{ content }}
