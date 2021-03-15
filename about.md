@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Here I am making some changes to the About page with new material. I would like to add some information.
+I'm also making some changes to this file so I can see what a pull request will do.
 
 ### More Information
 
