@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Here I am making some changes to the About page with new material. I would like to add some information.
 
 ### More Information
 
