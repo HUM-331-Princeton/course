@@ -110,6 +110,21 @@ img {
   max-width: 100%;
 }
 
+.left-image {
+    float: left;
+    margin: 20px
+}
+
+.right-image {
+    float: right;
+    margin: 20px
+}
+
+.center-image {
+    display: block;
+    margin: 0 auto;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
