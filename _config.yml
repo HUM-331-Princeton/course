@@ -8,8 +8,8 @@ name: The Name of Your Project Goes Here
 # Short bio or description (displayed in the header)
 description: This is where you describe your project in a sentence.
 
-# URL of an image you'd like to appear in your header. It'll be small by default, so think of something you'd like in a 60px x 60px square.
-avatar: https://github.com/HUM-331-Princeton/HUM-331-Princeton.github.io/blob/master/images/Clay%20tablet%20with%20pre-cuneiform%20writing.jpg?raw=true
+# URL of an image you'd like to appear in your header.
+banner: http://www.bl.uk/IllImages/BLStudio/mid/Addvarious/add_ms_42497_f001r.jpg
 
 #
 # Flags below are optional
