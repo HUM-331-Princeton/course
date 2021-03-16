@@ -9,8 +9,8 @@ name: The Name of Your Project Goes Here
 description: This is where you describe your project in a sentence.
 
 # URL of an image you'd like to appear in your header.
-banner: http://www.bl.uk/IllImages/BLStudio/mid/Addvarious/add_ms_42497_f001r.jpg
-
+# It should be long and rectangular to feature as a banner image.
+banner:
 #
 # Flags below are optional
 #
