@@ -124,7 +124,6 @@ Follow the usual syntax for embedding an image using Markdown, just like always,
 
 You can of course change the pixel value to whatever you’d like, but be sure it’s in quotation marks. You can also use the following commands to align your image to the left or right and float your text around your image:
 	`![Alt text](https://linktoimage.jpg){:width=”450px” .left-image}`
-	
 	`![Alt text](https://linktoimage.jpg){:width=”450px” .right-image}`
 
 Note that when your image is center aligned, your text will appear underneath the image and will not float around it. When you use right or left aligned, the image will be nestled within a text block.
