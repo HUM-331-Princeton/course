@@ -65,19 +65,22 @@ Just change it to:
 
 So let’s talk about what this syntax means: in both HTML and in Markdown, you can use this formula for coding in links to other pages within your site (this includes links to files of images saved in your site too):
 		
-HTML: 
-`<a href=”{{ site.baseurl }}/filename”>Link Text</a>`
+HTML: `<a href=”{{ site.baseurl }}/filename”>Link Text</a>`
 
 Markdown: `[Link Text]({{ site.baseurl }}/filename)`
 		
 If you’re trying to link to, say, an image file in a folder, or a PDF file in a folder, you would follow the same format, just including the folder extension before the file:
 
 For a link to a PDF:
+
 HTML: `<a href=”{{ site.baseurl }}/folder/filename”>Link Text</a>`
+
 Markdown: `[Link Text]({{ site.baseurl }}/folder/filename)`
 
 For a link to an image file stored in your repository:
+
 HTML:  `<img src=”{{ site.baseurl }}/folder/filename” />`
+
 Markdown: `![Alt Text]({{ site.baseurl }}/folder/filename)`
 
 
@@ -120,10 +123,13 @@ This rule is strictly aesthetic. The CSS style sheet for our site renders your p
 I’ve added some CSS to our style sheet to make this possible on our  course website. The basic CSS that comes in Jekyll-ready templates doesn’t include the ability to resize images or align them unless you insert HTML or directly load the file into an “images” folder in your repository. Here’s what you do: 
 
 Follow the usual syntax for embedding an image using Markdown, just like always, but add the following extra stuff at the end:
+
 	`![Alt text](https://linktoimage.jpg){:width=”450px” .center-image}`
 
 You can of course change the pixel value to whatever you’d like, but be sure it’s in quotation marks. You can also use the following commands to align your image to the left or right and float your text around your image:
+
 	`![Alt text](https://linktoimage.jpg){:width=”450px” .left-image}`
+	
 	`![Alt text](https://linktoimage.jpg){:width=”450px” .right-image}`
 
 Note that when your image is center aligned, your text will appear underneath the image and will not float around it. When you use right or left aligned, the image will be nestled within a text block.
