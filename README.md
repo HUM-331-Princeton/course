@@ -58,7 +58,7 @@ Just change it to:
 <nav class=”sidebar-nav”>
 <h2>
   <a class=”sidebar-nav-item” href="{{ site.baseurl }}/">HOME</a>
-<a class=”sidebar-nav-item” href="{{ site.baseurl }}/history">HISTORY</a>
+  <a class=”sidebar-nav-item” href="{{ site.baseurl }}/history">HISTORY</a>
 <h2>
 </nav>
 ```
@@ -145,7 +145,7 @@ Title: Your Post Title
 ```
 Now, in the body of your post, wherever you want the post to break on the home page and link to __READ MORE__, you insert that symbol exactly: `<!--more-->`
 
-## Rule #5: Be aware of `|` cropping up in citations
+### Rule #5: Be aware of `|` cropping up in citations
 Many of you included a “Works Cited” section in your last Digital Tools Assignment, which is great. But, by default, it’s pretty common for a website title to look like this, `1756: Nassau Hall | Princetoniana Museum,` with a vertical line separating the page name from the site name. Unfortunately, this vertical line is the same symbol used in Markdown to indicate that you want to display information in a table format. You’ll end up with text that has weird spacing in the middle of the line, and it’ll look funky in your post. Best to convert `|` into “–” to fix this problem.
 
 
