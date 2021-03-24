@@ -16,7 +16,7 @@ __sass__: The CSS files for the extra material that comes along with the site. R
 
 __congif.yml__: The basic info for your site that you’ll simply fill out like a form. Once you add your site info the first time (and you should do this with your partner when you begin your project), you will likely never touch this file again.
 
-__CNAME, LICENSE, README, and script.js__ are all files that you shouldn’t touch. The CNAME file would be used if you had a custom domain name instead of one at “github.io,” the license comes from the original writer of Jekyll Now (it’s totally open access), the README file appears in your GitHub repository to explain the project. Finally, the script.js file contains the code for the sliding navigation sidebar.
+__CNAME, LICENSE, README, and script.js__ are all files that you shouldn’t touch. The CNAME file would be used if you had a custom domain name instead of one at “github.io,” the license comes from the original writer of Jekyll Now (it’s totally open access), and the README file (which you're reading now) simply explains the repository. Finally, the script.js file contains the code for the sliding navigation sidebar.
 
 __style.scss__ is the file that contains the CSS code to change how your site looks (fonts, colors, positioning of text blocks and images). This isn’t a web design course, and I’m not grading you on the aesthetics of your site, but CSS is fairly easy to intuit and there are several tutorials on the web to help you learn the basics, like this one from CodeAcademy and this one from Mozilla. If you want to make design layout changes to your site, this is where you do it. 
 
