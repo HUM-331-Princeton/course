@@ -14,7 +14,7 @@ __posts__: The folder where you’ll put your posts, if you have them. You alrea
 
 __sass__: The CSS files for the extra material that comes along with the site. Really no need for you to touch this at all.
 
-__congif'__.yml: The basic info for your site that you’ll simply fill out like a form. Once you add your site info the first time (and you should do this with your partner when you begin your project), you will likely never touch this file again.
+__congif.yml__: The basic info for your site that you’ll simply fill out like a form. Once you add your site info the first time (and you should do this with your partner when you begin your project), you will likely never touch this file again.
 
 __CNAME, LICENSE, README, and script.js__ are all files that you shouldn’t touch. The CNAME file would be used if you had a custom domain name instead of one at “github.io,” the license comes from the original writer of Jekyll Now (it’s totally open access), the README file appears in your GitHub repository to explain the project. Finally, the script.js file contains the code for the sliding navigation sidebar.
 
