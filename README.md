@@ -114,7 +114,7 @@ title: Academics Can Write Titles Without Colons - But Only in Markdown
 ```
 
 ### Rule #3: Use ## or smaller for your subheadings and subtitles within your posts, not #. 
-This rule is strictly aesthetic. The CSS style sheet for our site renders your post titles as <h2> in HTML, which means that any subheadings in <h1> look disproportionate. Again, this is an aesthetic rule just for our course blog, not one that applies to any other places you might use Markdown!
+This rule is strictly aesthetic. The CSS style sheet for our site renders your post titles as `<h2>` in HTML, which means that any subheadings in `<h1>` look disproportionate. Again, this is an aesthetic rule just for our course blog, not one that applies to any other places you might use Markdown!
 
 ### Rule #3: Embedding, aligning, and resizing an image. 
 I’ve added some CSS to our style sheet to make this possible on our  course website. The basic CSS that comes in Jekyll-ready templates doesn’t include the ability to resize images or align them unless you insert HTML or directly load the file into an “images” folder in your repository. Here’s what you do: 
