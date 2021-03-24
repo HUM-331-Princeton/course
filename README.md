@@ -154,7 +154,7 @@ Many of you included a “Works Cited” section in your last Digital Tools Assi
 
 
 ## Credits
-
+- [Jekyll Now](https://github.com/barryclark/jekyll-now) - Thanks to Barry Clark for the basic template with infinite customization possibilities.
 - [Jekyll](https://github.com/jekyll/jekyll) - Thanks to its creators, contributors and maintainers.
 - [Lanyon](https://github.com/poole/lanyon) by MDO - Thanks to its creators for the slideable navigation sidebar.
 - [SVG icons](https://github.com/neilorangepeel/Free-Social-Icons) - Thanks, Neil Orange Peel. They're beautiful.
