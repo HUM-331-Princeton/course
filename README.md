@@ -122,15 +122,13 @@ This rule is strictly aesthetic. The CSS style sheet for our site renders your p
 ### Rule #3: Embedding, aligning, and resizing an image. 
 I’ve added some CSS to our style sheet to make this possible on our  course website. The basic CSS that comes in Jekyll-ready templates doesn’t include the ability to resize images or align them unless you insert HTML or directly load the file into an “images” folder in your repository. Here’s what you do: 
 
-Follow the usual syntax for embedding an image using Markdown, just like always, but add the following extra stuff at the end:
+Follow the usual syntax for embedding an image using Markdown, just like always, but add the following extra stuff at the end:`![Alt text](https://linktoimage.jpg){:width=”450px” .center-image}`
 
-	`![Alt text](https://linktoimage.jpg){:width=”450px” .center-image}`
+You can of course change the pixel value to whatever you’d like, but be sure it’s in quotation marks. You can also use the following commands to align your image to the left or right and float your text around your image: 
 
-You can of course change the pixel value to whatever you’d like, but be sure it’s in quotation marks. You can also use the following commands to align your image to the left or right and float your text around your image:
-
-	`![Alt text](https://linktoimage.jpg){:width=”450px” .left-image}`
+For left aligned: `![Alt text](https://linktoimage.jpg){:width=”450px” .left-image}`
 	
-	`![Alt text](https://linktoimage.jpg){:width=”450px” .right-image}`
+For right aligned: `![Alt text](https://linktoimage.jpg){:width=”450px” .right-image}`
 
 Note that when your image is center aligned, your text will appear underneath the image and will not float around it. When you use right or left aligned, the image will be nestled within a text block.
 
