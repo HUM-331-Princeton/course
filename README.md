@@ -29,7 +29,7 @@ __layouts__: This folder contains the basic HTML that serves as the template for
 
 __style.scss__: This is the file that contains the CSS (Cascading Style Sheets) code to change how your site looks (fonts, colors, positioning of text blocks and images). If you want to make design layout changes to your site, this is where you do it. However, this isn’t a web design course, and I’m not grading you on the aesthetics of your site, so don't feel obligated. We will go over a couple of places where you can easily make basic changes to colors and fonts, but there is no expectation that you will go beyond that. If you'd like to learn more about CSS [this free lesson](https://www.codecademy.com/learn/learn-css) from CodeAcademy is also very good.
 
-##The following files are __pages__ and they just float free in the "root" directory of your site, rather than living in a designated folder like __posts__ do:
+## The following files are __pages__ and they just float free in the "root" directory of your site, rather than living in a designated folder like __posts__ do:
 __404.md__: A custom 404 page for your site! If a link is broken, this is what will pop up. You can edit the file with whatever you’d like.
 __index.md__: This is the homepage of your site. Right now it’s set up as a feed of blog posts. You can keep it that way, or you can add information about your project as a landing page. Or you can remove the blog feed all together!
 
