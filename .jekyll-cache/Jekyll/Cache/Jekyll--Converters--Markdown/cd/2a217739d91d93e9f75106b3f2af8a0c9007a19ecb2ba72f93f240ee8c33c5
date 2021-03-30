@@ -1,0 +1,19 @@
+I"G<div class="posts">
+  
+    <article class="post">
+
+      <header class="post-header">
+      <h2 class="post-title"><a href="/final-project-template/Hello-World/">A Sample Post</a></h2>
+      <h4>By Your Name Here on March 15, 2021</h4>
+      </header>
+
+      <div class="entry">
+        <p>The easiest way to make your first post is to edit this one. Don’t forget to change the file name to update the YYYY-MM-DD-Title format. And remember that adding</p>
+
+      </div>
+
+      <a href="/final-project-template/Hello-World/" class="read-more">Read More</a>
+    </article>
+  
+</div>
+:ET
