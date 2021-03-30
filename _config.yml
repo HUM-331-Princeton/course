@@ -71,7 +71,7 @@ kramdown:
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
-# Adding an contributor collection.
+# Adding a contributor collection.
 collections:
   people:
     output: true

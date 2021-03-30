@@ -7,7 +7,7 @@ __sass__: The CSS files for the extra material that comes along with the site. R
 
 __site__: This is where Jekyll keeps all the files created when it builds your site from your Markdown files and translated them to HTML. You don't ever need to touch anything in this folder. All of these files will constantly change as you develop your site.
 
-__CNAME, LICENSE, README, and script.js__ are all files that you shouldn’t touch. The CNAME file would be used if you had a custom domain name instead of one at “github.io,” the license comes from the original writer of Jekyll Now (it’s totally open access), and the README file (which you're reading now) simply explains the repository. Finally, the script.js file contains the code for the sliding navigation sidebar.
+__LICENSE, README, and script.js__ are all files that you shouldn’t touch. The license comes from the original writer of Jekyll Now (it’s totally open access), and the README file (which you're reading now) simply explains the repository to interested parties on GitHub. Finally, the script.js file contains the code for the sliding navigation sidebar.
 
 ## The following folders you are already familiar with from our course blog, so you should know how to add new files following exactly the same model we have for our digital tools assignments:
 
@@ -31,25 +31,27 @@ __style.scss__: This is the file that contains the CSS (Cascading Style Sheets) 
 
 ## The following files are __pages__ and they just float free in the "root" directory of your site, rather than living in a designated folder like __posts__ do:
 __404.md__: A custom 404 page for your site! If a link is broken, this is what will pop up. You can edit the file with whatever you’d like.
+
 __index.md__: This is the homepage of your site. Right now it’s set up as a feed of blog posts. You can keep it that way, or you can add information about your project as a landing page. Or you can remove the blog feed all together!
 
 These are the only two __pages__ that are mandatory for your site. You can delete the __about.md__ file if you don’t want to have an “About” page for your project in addition to your home page, but it's probably a good idea to have one. You can also create as many new pages for your site as you’d like and customize them as you see fit. See directions below!
 
 
 ## How to Create New Pages for your Final Project Site
-Create a new .md file in your repository (not in a folder) and, in the header info at the top, set it to:
+Create a new .md file in your repository--the root directory of your site--and, in the header info at the top, set it to:
 ```
 ---
 layout: page
 title: Your Title Here
 ---
 ```
-But—-and this is important—-your pages won’t automatically show up on your site like posts do. You need to create links within your site so that users can access them. You may want some of these links to exist in the Navigation menu at the top of your site. If so, you’ll need to edit the navigation links in the __sidebar.html__ file.
+Unlike __posts__, pages don’t automatically show up on your site. You need to create links within your site so that users can access them. You may want some of these links to exist in the Navigation menu on the sidebar. If so, you’ll need to edit the navigation links in the __sidebar.html__ file. You may just want to link to new pages through other pages, and that's also just fine.
 
-Maybe instead of an “About” page, you want a page called “History” with a discussion of the contextual background of your source. So here’s how you make one:
-Create a new .md file in your repository (not within a folder, just in the repository) called __history.md__.
-Use the header settings above, and write the page in Markdown as you would any blog post. Save your changes.
-Open the __includes__ folder, and then open __sidebar.html__. This file has the template for the navigation bar with this HTML within it.
+Maybe instead of an “About” page, you want a page called “History” in your navigation menu. So here’s how you make one:
+
+1. Create a new .md file in your repository (not within a folder, just in the repository) called __history.md__.
+2. Use the header settings above, and write the page in Markdown as you would any blog post. Save your changes.
+3. Open the __includes__ folder, and then open __sidebar.html__. This file has the template for the navigation bar with this HTML within it.
 
 ```
 <nav class=”sidebar-nav”>
@@ -69,8 +71,9 @@ Just change it to:
 <h2>
 </nav>
 ```
+Note that you've changed both the link itself from `{{ site.baseurl }}/about` to `{{ site.baseurl }}/history` *and* the text that appears in the sidebar, from `ABOUT` to `HISTORY`.
 
-So let’s talk about what this syntax means: in both HTML and in Markdown, you can use this formula for coding in links to other pages within your site (this includes links to files of images saved in your site too):
+In both HTML and in Markdown, you can use this exact formula anytime you want to add a link to other pages *held within your site* (this includes links to files of images or PDFS that you might want to save in a folder in your site too):
 
 HTML: `<a href=”{{ site.baseurl }}/filename”>Link Text</a>`
 
@@ -91,10 +94,8 @@ HTML:  `<img src=”{{ site.baseurl }}/folder/filename” />`
 Markdown: `![Alt Text]({{ site.baseurl }}/folder/filename)`
 
 
-Finally, all of the Markdown rules apply to your final project repository too.
+##Finally, all of the Markdown rules apply to your final project repository too.
 So be sure to consult the rules listed below!
-
-# Markdown Rules for Composing Posts and Pages
 
 ### Rule #1: All of the Markdown syntax you learned from the Getting Started with Markdown lesson applies!
 You should follow this basic syntax when writing your Digital Tools Assignments.
