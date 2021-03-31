@@ -741,9 +741,8 @@ code {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-size: .875rem;
-  /* 15px */
+  font-family: helvetica;
+  font-size: .750rem;
   color: rgba(255, 255, 255, 0.6);
   background-color: #333;
   -webkit-transition: all .3s ease-in-out;
@@ -772,14 +771,9 @@ code {
 }
 
 /* Sidebar nav */
-.sidebar-nav {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-}
-
 .sidebar-nav-item {
   display: block;
   padding: .5rem 1rem;
-  border-top: 1px solid rgba(255, 255, 255, 0.1);
 }
 
 .sidebar-nav-item.active,
