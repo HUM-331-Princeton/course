@@ -74,6 +74,7 @@ body {
   background: #fff;
   font: 18px/1.4 Helvetica, Arial, sans-serif;
   color: #333;
+  font-weight: 300;
 }
 
 .container {
@@ -126,6 +127,7 @@ p {
 a {
   color: #4183C4;
   text-decoration: none;
+  font-weight: bold;
   cursor: pointer;
 }
 
@@ -262,7 +264,7 @@ img {
   color: #333;
   cursor: pointer;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 28px;
+  font-size: 36px;
   letter-spacing: 1px;
 }
 
@@ -270,6 +272,7 @@ img {
   margin: -5px 0 0 0;
   color: #666;
   font-size: 16px;
+  font-weight: lighter;
 }
 
 @media screen and (max-width: 640px) {
@@ -758,7 +761,7 @@ code {
 
 /* Sidebar content */
 .sidebar a {
-  font-weight: normal;
+  font-weight: 300;
   color: #fff;
 }
 

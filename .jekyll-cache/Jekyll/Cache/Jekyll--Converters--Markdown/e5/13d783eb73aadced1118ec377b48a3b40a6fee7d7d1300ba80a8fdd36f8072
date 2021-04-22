@@ -1,0 +1,47 @@
+I"Y<table>
+  <thead>
+    <tr>
+      <th>Assignment</th>
+      <th>Grade Percentage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Class Participation/Pre-Lab Assignments</td>
+      <td>20%</td>
+    </tr>
+    <tr>
+      <td>Digital Tools Assignments:</td>
+      <td>35% total, comprised of:</td>
+    </tr>
+    <tr>
+      <td>Markdown Assignment</td>
+      <td>5%</td>
+    </tr>
+    <tr>
+      <td>StoryMaps/TimeMapper Assignment</td>
+      <td>10%</td>
+    </tr>
+    <tr>
+      <td>TEI/XML Assignment</td>
+      <td>10%</td>
+    </tr>
+    <tr>
+      <td>Cytoscape Assignment</td>
+      <td>10%</td>
+    </tr>
+    <tr>
+      <td>Final Digital Project</td>
+      <td>20%</td>
+    </tr>
+    <tr>
+      <td>Final Response Paper</td>
+      <td>10 %</td>
+    </tr>
+    <tr>
+      <td>Take Home Final Exam</td>
+      <td>15%</td>
+    </tr>
+  </tbody>
+</table>
+:ET
