@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: The Name of Your Project Goes Here
+name: A History of Words
 
 # Short bio or description (displayed in the header)
-description: This is the repository for the final projects of HUM 331.
+description: HUM 331 Course Materials, Spring 2021
 
 # URL of an image you'd like to appear in your header.
 # It should be long and rectangular to feature as a banner image.
@@ -46,7 +46,7 @@ url: https://hum-331-princeton.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/final-project-template"
+baseurl: "/course"
 
 #
 # !! You don't need to change any of the configuration flags below !!
