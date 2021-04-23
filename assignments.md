@@ -29,7 +29,7 @@ In this assignment you will compose a blog post discussing a possible resource h
 
 In this assignment you'll use your digital source selected from Princeton's Special Collections and research its context in order to create either a StoryMap related to the source.
 
-[Instructions for StoryMaps digital tools assignment]({{ site.baseurl }}/digitaltools2)
+[Instructions for the StoryMaps digital tools assignment]({{ site.baseurl }}/digitaltools2)
 
 ## Digital Tools Assignment #3: XML and TEI
 
@@ -46,3 +46,5 @@ In this assignment, you will create a dataset of at least 100 nodes which you wi
 ## Final Project Website
 
 You and a partner will work together to research and craft a narrative argument about a source in Princeton University Special Collections. Using a template you'll copy in our course GitHub repository, you'll then build and customize a website that presents this source to an educated general reader, thinking through the possibilities of digital storytelling beyond the static page.
+
+[Instructions for the Final Project]({{ site.baseurl }}/finalproject)

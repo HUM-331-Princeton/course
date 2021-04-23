@@ -1,4 +1,4 @@
-I"R<table>
+I"�<table>
   <thead>
     <tr>
       <th style="text-align: left"><strong>Class Participation/Pre-Lab Assignments</strong></th>
@@ -61,13 +61,13 @@
 
 <p>In this assignment you’ll use your digital source selected from Princeton’s Special Collections and research its context in order to create either a StoryMap related to the source.</p>
 
-<p><a href="/course/digitaltools2">Instructions for StoryMaps digital tools assignment</a></p>
+<p><a href="/course/digitaltools2">Instructions for the StoryMaps digital tools assignment</a></p>
 
 <h2 id="digital-tools-assignment-3-xml-and-tei">Digital Tools Assignment #3: XML and TEI</h2>
 
 <p>In this assignment, you’ll select a text from your research or from a historical source that interests you and encode it with XML using categories in-keeping with the Text Encoding Initiative standards. You’ll imagine what a future reader might want to discover from your chosen text and develop a tagging schema to render it into useable data.</p>
 
-<p><a href="/course/digitaltools3" width="400px">Instructions for the XML/TEI digital tools assignment</a></p>
+<p><a href="/course/digitaltools3">Instructions for the XML/TEI digital tools assignment</a></p>
 
 <h2 id="digital-tools-assignment-4-cytoscape">Digital Tools Assignment #4: Cytoscape</h2>
 
@@ -78,4 +78,6 @@
 <h2 id="final-project-website">Final Project Website</h2>
 
 <p>You and a partner will work together to research and craft a narrative argument about a source in Princeton University Special Collections. Using a template you’ll copy in our course GitHub repository, you’ll then build and customize a website that presents this source to an educated general reader, thinking through the possibilities of digital storytelling beyond the static page.</p>
+
+<p><a href="/course/finalproject">Instructions for the Final Project</a></p>
 :ET
