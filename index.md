@@ -25,12 +25,12 @@ __The course has multiple goals:__
 4. Finally, students will gain competency in a variety of “digital tools” which will allow them to communicate their own historical research to a broader public in digital format.
 
 
-### COURSE MEETINGS
+### Course Meetings
 Course meetings will alternate between sessions labeled “Lecture/Discussion” and sessions labeled “Digital Humanities Lab.” On “Lecture/Discussion” days, we will read articles or book chapters and watch lectures that relate the history of communications technologies. On these days, we will meet on Zoom for 50 minutes of discussion. Prior to each meeting, students will be expected to complete the readings on the syllabus and watch a pre-recorded lecture from Professor Reynolds. In our Zoom meetings, students should make every effort to contribute to discussion, either via the chat window or in real time conversation. Participation is a critical component of this course.
 
 On “Digital Humanities Lab” days, we will explore digital humanities projects that relate to that week’s readings and lecture. On these days, we will meet on Zoom for the full 80 minutes of class time, and these sessions will often feature guest speakers with specific expertise about the archives or digital methods under study that week. These course sessions will also frequently incorporate “demos” of digital tools which students may then use in their “Digital Tools Assignments” or in their digital final project. Prior to each of these course meetings, students should complete the short “Pre-Lab Assignments” related to that week’s digital archive listed in the syllabus. All Pre-Lab Assignments are due to our course Canvas site by noon on the day of class.
 
-### CONTACT
+### Contact
 Professor Melissa Reynolds [melissa.reynolds@princeton.edu](mailto:melissa.reynolds@princeton.edu)
 
 Office Hours: Wednesdays from 10:00 - 12:00. Please make an appointment ahead of time on [Wase](https://wase.princeton.edu/princeton/views/pages/makeappt.php?calid=3958).
