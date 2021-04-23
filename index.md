@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## ABOUT THIS COURSE
+## About this Course
 ![Cuneiform tablet]({{ site.baseurl }}/images/cuneiform.jpg){: width="200px" .left-image} How do the methods, materials, and technologies of human communication shape religion,
 politics, popular culture, and the circulation of knowledge? Can we tie the invention of
 writing to the origins of cities? Would the ‘religions of the book’ have flourished in
