@@ -32,8 +32,8 @@ Watch Part I and Part II of the lecture, posted on Canvas
 - Watch Part I and Part II of the lecture [posted on Canvas]
 
 #### Pre-Discussion Readings:
-- Jack Goody and Ian Watt, “The Consequences of Literacy,” Comparative Studies in Society and History 5 (April 1963), pp. 304–332. (You don’t need to read section IV.) [posted on canvas]
-- Marc Van De Mieroop, Philosophy before the Greeks: The Pursuit of Truth in Ancient Babylonia (Princeton, 2015), pp. Preface, Ch 1. and Ch 9. [posted on canvas]
+- Jack Goody and Ian Watt, “The Consequences of Literacy,” _Comparative Studies in Society and History_ 5 (April 1963), pp. 304–332. (You don’t need to read section IV.) [posted on canvas]
+- Marc Van De Mieroop, _Philosophy before the Greeks: The Pursuit of Truth in Ancient Babylonia_ (Princeton, 2015), pp. Preface, Ch 1. and Ch 9. [posted on canvas]
 
 ### Feb. 10: Digital Humanities Lab
 #### Pre-Lab Assignment:
@@ -55,7 +55,7 @@ __Introduction to [Digital Tools Assignment #1: Markdown Starter Post]({{ site.b
 Watch Part I and Part II of the lecture, posted on Canvas
 
 #### Pre-Discussion Readings:
-- Stephanie Ann Frampton, Empire of Letters: Writing in Roman Literature and Thought from Lucretius to Ovid (Oxford, 2018), pp. 1–12, 33–55. [posted on canvas]
+- Stephanie Ann Frampton, _Empire of Letters: Writing in Roman Literature and Thought from Lucretius to Ovid_ (Oxford, 2018), pp. 1–12, 33–55. [posted on canvas]
 - Rebecca R. Benefiel, “Urban and Suburban Attitudes to Writing on Walls? Pompeii and Environs,” ed. I. Berti, K. Bolle, F. Opdenhoff, and F. Stroth, Berlin: De Gruyter (2017), 353–373. [posted on canvas]
 
 ### Feb. 17: Digital Humanities Lab
@@ -75,8 +75,8 @@ __Introduction to [Digital Tools Assignment #2: Story Maps]({{ site.baseurl }}/d
 Watch Part I and Part II of the lecture posted on Canvas
 
 #### Pre-Discussion Readings:
-- Christopher de Hamel, Meetings with Remarkable Manuscripts: Twelve Journeys into the Medieval World (New York, 2016), pp. 1–7, 52–94. [posted on canvas]
-- Alain George, “Calligraphy, Colour and Light in the Blue Qur'an,” Journal of Qur’anic Studies 11, no. 1 (April 2009): ONLY 95–108. [posted on canvas]
+- Christopher de Hamel, _Meetings with Remarkable Manuscripts: Twelve Journeys into the Medieval World_ (New York, 2016), pp. 1–7, 52–94. [posted on canvas]
+- Alain George, “Calligraphy, Colour and Light in the Blue Qur'an,” _Journal of Qur’anic Studies_ 11, no. 1 (April 2009): ONLY 95–108. [posted on canvas]
 - OPTIONAL: View the [short series of videos](https://youtu.be/aEPpURAIsW4) demonstrating the preparation of a medieval manuscript from the British Library, linked to our Canvas site
 
 ### Feb. 24: Digital Humanities Lab
@@ -93,11 +93,11 @@ __Special Guests:__ Will Noel, John T. Maltsberger III ‘55 Associate Universit
 ### March 1: Lecture/Discussion
 
 #### Pre-Discussion Readings:
-- M. T. Clanchy, From Memory to Written Record, 1066–1307 (New York, 2012), pp. 44–73, 294–317. [posted on canvas]
-- Marina Rustow, The Lost Archive: Traces of a Caliphate in a Cairo Synagogue (Princeton, 2020), 1–8, 247–273. [posted on canvas]
+- M. T. Clanchy, _From Memory to Written Record, 1066–1307_ (New York, 2012), pp. 44–73, 294–317. [posted on canvas]
+- Marina Rustow, _The Lost Archive: Traces of a Caliphate in a Cairo Synagogue_ (Princeton, 2020), 1–8, 247–273. [posted on canvas]
 
 ### March 3: Digital Humanities Lab
-__Special Guest:__ Marina Rustow, Khedouri A. Zillkha Professor of Jewish Civilization in the Near East; Professor of Near Eastern Studies and History)
+__Special Guest:__ Marina Rustow, Khedouri A. Zillkha Professor of Jewish Civilization in the Near East; Professor of Near Eastern Studies and History
 
 #### Pre-Lab Assignment:
 - Visit the [Princeton Geniza Project](https://geniza.princeton.edu/) and explore the project by searching the Project’s Digital Document Library and JTS Image Collection.
@@ -112,12 +112,12 @@ __Special Guest:__ Marina Rustow, Khedouri A. Zillkha Professor of Jewish Civili
 Watch Part I and Part II of the lecture, posted on Canvas
 
 #### Pre-Discussion Readings:
-- Pamela O. Long, Openness, Secrecy, Authorship: Technical Arts and the Culture of Knowledge from Antiquity to the Renaissance (Baltimore, 2001), pp. 102–142. [posted on canvas]
-- Pamela H. Smith, “In the Workshop of History: Making, Writing, and Meaning.” West 86th 19, no. 1 (2012): 4–31. [posted on canvas]
+- Pamela O. Long, _Openness, Secrecy, Authorship: Technical Arts and the Culture of Knowledge from Antiquity to the Renaissance_ (Baltimore, 2001), pp. 102–142. [posted on canvas]
+- Pamela H. Smith, “In the Workshop of History: Making, Writing, and Meaning.” _West 86th_ 19, no. 1 (2012): 4–31. [posted on canvas]
 
 ### March 10: Digital Humanities Lab
 #### Pre-Lab Assignment:
- - Read David Birnbaum, []“What is XML and why should humanists care? An even gentler introduction to XML.”](http://dh.obdurodon.org/what-is-xml.xhtml) STOP READING at “Entities and numerical character references”
+ - Read David Birnbaum, [“What is XML and why should humanists care? An even gentler introduction to XML.”](http://dh.obdurodon.org/what-is-xml.xhtml) STOP READING at “Entities and numerical character references”
 - Click through the Women Writers Project’s [Overview of Text Encoding](https://www.wwp.northeastern.edu/outreach/seminars/_current/presentations/overview/overview_newer_tutorial_00.xhtml) and [Basic Tagging tutorials](https://www.wwp.northeastern.edu/outreach/seminars/_current/presentations/basic_encoding/basic_encoding_tutorial_00.xhtml)
 - Visit the [Secrets of Craft and Nature in Renaissance France](https://edition640.makingandknowing.org/) from the Making and Knowing Project. Read the essay on [Counterfeit Coral](https://edition640.makingandknowing.org/#/essays/ann_015_sp_15); watch the [Video](https://vimeo.com/384066429) of lab researchers describing their efforts to reconstruct the recipe; and finally, read the [translation](https://edition640.makingandknowing.org/#/folios/3r/f/3r/tl) of the recipe and view the digital facsimile of the manuscript page.
 - Post on our Canvas discussion.
@@ -133,8 +133,8 @@ __Introduction to [Digital Tools Assignment #3: XML and TEI]({{ site.baseurl }}/
 Watch Part I and Part II of the lecture, posted on Canvas
 
 #### Pre-discussion readings:
-- Anthony Grafton, “Humanists with Inky Fingers,” in Inky Fingers: The Making of Books in Early Modern Europe (Cambridge: Harvard UP, 2020), pp. 29–55. [posted on canvas]
-- Kai-wing Chow, “Reinventing Gutenberg: Woodblock and Movable-Type Printing in Europe,” in Agent of Change: Print Culture Studies after Elizabeth L. Eisenstein (Amherst: University of Massachusetts Press, 2007), pp. 169–192. [posted on canvas]
+- Anthony Grafton, “Humanists with Inky Fingers,” in _Inky Fingers: The Making of Books in Early Modern Europe_ (Cambridge: Harvard UP, 2020), pp. 29–55. [posted on canvas]
+- Kai-wing Chow, “Reinventing Gutenberg: Woodblock and Movable-Type Printing in Europe,” in _Agent of Change: Print Culture Studies after Elizabeth L. Eisenstein_ (Amherst: University of Massachusetts Press, 2007), pp. 169–192. [posted on canvas]
 
 ### March 24: Digital Humanities Lab
 __Special Guest:__ Professor Tony Grafton, Henry Putnam University Professor of History
@@ -152,8 +152,8 @@ __Special Guest:__ Professor Tony Grafton, Henry Putnam University Professor of 
 Watch Part I and Part II of the lecture, posted on Canvas
 
 #### Pre-Discussion readings:
-- Daniela Bleichmar, “Painting the Aztec Past in Early Colonial Mexico: Translation and Knowledge Production in the Codex Mendoza,” Renaissance Quarterly 72 (Winter 2019): 1362–1415. [posted on canvas]
-- Barbara E. Mundy, “Mapping the Aztec Capital: The 1524 Nuremburg Map of Tenochtitlan, Its Sources and Meanings,” Imago Mundi, vol. 50, no. 1 (1999): 11–33. [posted on canvas]
+- Daniela Bleichmar, “Painting the Aztec Past in Early Colonial Mexico: Translation and Knowledge Production in the Codex Mendoza,” _Renaissance Quarterly_ 72 (Winter 2019): 1362–1415. [posted on canvas]
+- Barbara E. Mundy, “Mapping the Aztec Capital: The 1524 Nuremburg Map of Tenochtitlan, Its Sources and Meanings,” _Imago Mundi_ 50 (1999): 11–33. [posted on canvas]
 
 ### March 31: Digital Humanities Lab
 #### Pre-Lab Assignment:
@@ -170,8 +170,8 @@ __Introduction to your [Final Project]({{ site.baseurl }}/finalproject)__
 Watch the Week 9 Lecture, posted on Canvas
 
 #### Pre-discussion readings:
-- Carol Pal, Republic of Women: Rethinking the Republic of Letters in the Seventeenth Century (Cambridge: Cambridge University Press, 2012), 1–21. [posted on canvas]
-- Dena Goodman, Becoming a Woman in the Age of Letters (Ithaca: Cornell University Press, 2009), pp. 1–15, 133–57. [posted on canvas]
+- Carol Pal, _Republic of Women: Rethinking the Republic of Letters in the Seventeenth Century_ (Cambridge: Cambridge University Press, 2012), 1–21. [posted on canvas]
+- Dena Goodman, _Becoming a Woman in the Age of Letters_ (Ithaca: Cornell University Press, 2009), pp. 1–15, 133–57. [posted on canvas]
 
 ### April 7: Digital Humanities Lab
 __Special Guest:__ Kristen Starkowski on her work with Cytoscape
@@ -190,8 +190,8 @@ __Introduction to [Digital Tools Assignment #4: Cytoscape]({{ site.baseurl }}/di
 Watch the lecture “Newspapers and Nations” posted to Canvas
 
 #### Pre-discussion readings:
-- Benedict Anderson, “Creole Pioneers,” in Imagined Communities: Reflections on the Origins and Spread of Nationalism, 3rd edition (New York: Zone Books, 2006), 47–65. [posted on canvas]
-- Marcus Daniel, “John Fenno and the Constitution of a National Character,” in Scandal and Civility: Journalism and the Birth of American Democracy (Oxford: Oxford University Press, 2010), pp. 19–61. [posted on cavas]
+- Benedict Anderson, “Creole Pioneers,” in _Imagined Communities: Reflections on the Origins and Spread of Nationalism_, 3rd edition (New York: Zone Books, 2006), 47–65. [posted on canvas]
+- Marcus Daniel, “John Fenno and the Constitution of a National Character,” in _Scandal and Civility: Journalism and the Birth of American Democracy_ (Oxford: Oxford University Press, 2010), pp. 19–61. [posted on cavas]
 
 ### April 14: Digital Humanities Lab
 __Special Guest:__ Kristen Starkowski on [Voyant Tools](https://voyant-tools.org/) and lexical analysis
@@ -212,9 +212,9 @@ In lieu of a pre-recorded lecture, listen to the podcast, [The First Family of R
 Listen to Paul Robeson sing [“Ballad for Americans,”](https://music.youtube.com/watch?v=LHCQGQdeL68&feature=share) broadcast on the radio show Pursuit of Happiness in 1940
 
 #### Pre-Discussion Readings:
-- D. M. Ryfe, “Franklin Roosevelt and the Fireside Chats.” Journal of Communication 49, no. 4 (1999): 80–103. [posted on canvas]
-- Kate Lacey “Radio in the Great Depression: Promotional Culture, Public Service, and Propaganda,” in Michele Hilmes and Jason Loviglio, eds., Radio Reader: Essays in the Cultural History of Radio(New York: Routledge, 2002), pp. 21–40. [posted on canvas]
-- Judith E. Smith, “Radio’s ‘Cultural Front,’ 1938–1948,” in Radio Reader: Essays in the Cultural History of Radio, pp. 209–230. [posted on canvas]
+- D. M. Ryfe, “Franklin Roosevelt and the Fireside Chats.” _Journal of Communication_ 49, no. 4 (1999): 80–103. [posted on canvas]
+- Kate Lacey “Radio in the Great Depression: Promotional Culture, Public Service, and Propaganda,” in Michele Hilmes and Jason Loviglio, eds., _Radio Reader: Essays in the Cultural History of Radio_ (New York: Routledge, 2002), pp. 21–40. [posted on canvas]
+- Judith E. Smith, “Radio’s ‘Cultural Front,’ 1938–1948,” in _Radio Reader: Essays in the Cultural History of Radio_, pp. 209–230. [posted on canvas]
 
 ### April 21: Digital Humanities Lab
 __Special Guest:__ Nick Budak, Developer at the Center for Digital Humanities, Princeton
@@ -234,9 +234,9 @@ __Special Guest:__ Nick Budak, Developer at the Center for Digital Humanities, P
 There is __NO PRERECORDED LECTURE__ this week. We will meet for the full class time, from 1:30–2:50 pm to discuss the readings and our digital archive.
 
 #### Pre-class Readings:
-- Habibul Haque Khondker, “Role of the New Media in the Arab Spring,” Globalizations 8 (October 2011): 675–679. [posted on canvas]
-- Nathaniel Persily, “Can Democracy Survive the Internet?” Journal of Democracy 28 (April 2017): 63–76. [posted on canvas]
-- Matthew Hindman, The Internet Trap: How the Digital Economy Builds Monopolies and Undermines Democracy (Princeton: Princeton University Press, 2018), Ch. 8. [posted on canvas]
+- Habibul Haque Khondker, “Role of the New Media in the Arab Spring,” _Globalizations_ 8 (October 2011): 675–679. [posted on canvas]
+- Nathaniel Persily, “Can Democracy Survive the Internet?” _Journal of Democracy_ 28 (April 2017): 63–76. [posted on canvas]
+- Matthew Hindman, _The Internet Trap: How the Digital Economy Builds Monopolies and Undermines Democracy_ (Princeton: Princeton University Press, 2018), Ch. 8. [posted on canvas]
 
 #### Pre-Lab assignments:
 - Read Axel Bruns, [“The Library of Congress Twitter Archive: A Failure of Historic Proportions,”](https://medium.com/dmrc-at-large/the-library-of-congress-twitter-archive-a-failure-of-historic-proportions-6dc1c3bc9e2c) Medium, January 1, 2018.
