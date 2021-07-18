@@ -158,7 +158,7 @@ Watch Part I and Part II of the lecture, posted on Canvas
 ### March 31: Digital Humanities Lab
 #### Pre-Lab Assignment:
 - Visit [The Map of Early Modern London](https://mapoflondon.uvic.ca/index.htm), explore the [Agas Map](https://mapoflondon.uvic.ca/agas.htm), and compare the spatial representation of that city to the Nahuatl Maps of the [Mapas Project](https://mapas.uoregon.edu/content/welcome-mapas-project), paying close attention to the [Oztoticpac Lands Map](https://mapas.uoregon.edu/oztoc)
-- Read the lessons on [“Geocoding Part I: Introduction to Geocoding”](https://schoolofdata.org/2013/02/19/geocoding-part-i-introduction-to-geocoding/) and “Geocoding Part II: Geocoding Data in a Google Docs Spreadsheet”](https://schoolofdata.org/2013/02/19/geocoding-part-ii-geocoding-data-in-a-google-docs-spreadsheet/) on School of Data
+- Read the lessons on [“Geocoding Part I: Introduction to Geocoding”](https://schoolofdata.org/2013/02/19/geocoding-part-i-introduction-to-geocoding/) and [“Geocoding Part II: Geocoding Data in a Google Docs Spreadsheet”](https://schoolofdata.org/2013/02/19/geocoding-part-ii-geocoding-data-in-a-google-docs-spreadsheet/) on School of Data
 - Read the tutorial, [Getting Ready for our Final Project]({{ site.baseurl }}/gettingreadyfinalproject), and complete the first section before class
 
 __Introduction to your [Final Project]({{ site.baseurl }}/finalproject)__
@@ -247,9 +247,9 @@ There is __NO PRERECORDED LECTURE__ this week. We will meet for the full class t
 ---
 Office hours meetings with Professor Reynolds and Kristen Starkowski to consult on final digital projects & DH response paper
 
-## May 5: Dean’s Date
-__Final Response paper due at 5 pm__
-__Final projects due to GitHub repository at 5 pm__
+## May 10: Dean’s Date
+__Final Response paper due at 11:59 pm__
+__Final projects due to GitHub repository at 11:59 pm__
 
 ## May 6 - May 14: Final Exam Week
 You have three hours to take the exam and you may choose when to do so anytime over the course of exam week. The exam will go live at 12:01 am on May 6 and will remain accessible until 11:59 pm on May 14.
