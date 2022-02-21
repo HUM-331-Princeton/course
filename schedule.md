@@ -11,7 +11,6 @@ __Digital Lab__: Wednesdays, 1:30–2:50 pm
 ## Week 1: Introduction to Digital Humanities
 ---
 ### Feb. 1:	Lecture/Discussion
-
 Watch Part I and Part II of the lecture, posted on Canvas
 
 #### Pre-Discussion Readings:
@@ -29,7 +28,7 @@ Watch Part I and Part II of the lecture, posted on Canvas
 ---
 
 ### Feb. 8: Lecture/Discussion
-- Watch Part I and Part II of the lecture [posted on Canvas]
+- Watch Part I and Part II of the lecture posted on Canvas
 
 #### Pre-Discussion Readings:
 - Jack Goody and Ian Watt, “The Consequences of Literacy,” _Comparative Studies in Society and History_ 5 (April 1963), pp. 304–332. (You don’t need to read section IV.) [posted on canvas]
@@ -51,7 +50,6 @@ __Introduction to [Digital Tools Assignment #1: Markdown Starter Post]({{ site.b
 ### Feb. 15: Lecture/Discussion
 
 **Digital Tools Assignment 1 due February 15 at 11:00 pm EST**
-
 Watch Part I and Part II of the lecture, posted on Canvas
 
 #### Pre-Discussion Readings:
@@ -71,7 +69,6 @@ __Introduction to [Digital Tools Assignment #2: Story Maps]({{ site.baseurl }}/d
 ## Week 4: Sacred Books for Sacred Stories
 ---
 ### Feb. 22: Lecture/Discussion
-
 Watch Part I and Part II of the lecture posted on Canvas
 
 #### Pre-Discussion Readings:
@@ -91,6 +88,7 @@ __Special Guests:__ Will Noel, John T. Maltsberger III ‘55 Associate Universit
 ## Week 5: Writing to Rule
 ---
 ### March 1: Lecture/Discussion
+Watch Part I and Part II of the lecture, posted on Canvas
 
 #### Pre-Discussion Readings:
 - M. T. Clanchy, _From Memory to Written Record, 1066–1307_ (New York, 2012), pp. 44–73, 294–317. [posted on canvas]
