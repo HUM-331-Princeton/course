@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+## Syllabus
+Use the menu at the top left to navigate through the course syllabus, or click these links to view the course [schedule](https://hum-331-princeton.github.io/course/schedule/), details on [assignments](https://hum-331-princeton.github.io/course/assignments/), [course policies](https://hum-331-princeton.github.io/course/policies/), and a link to our course [blog](https://hum-331-princeton.github.io).
 
 ## About this Course
 ![Cuneiform tablet]({{ site.baseurl }}/images/cuneiform.jpg){: width="200px" .left-image} How do the methods, materials, and technologies of human communication shape religion,
